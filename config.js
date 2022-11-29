@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282287219167']
-global.ownernomer = "6282287219167"
-global.premium = ['6282287219167']
-global.packname = 'Sticker By'
+global.owner = ['6285859842074']
+global.ownernomer = "6285859842074"
+global.premium = ['6285859842074']
+global.packname = ''
 global.author = 'Sad-Bot'
 global.sessionName = 'papah'  //jangan diganti bro nanti error
 global.jumlha = '999'
@@ -66,8 +66,8 @@ global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.akulaku = 'Bot By wJepri'
+global.ytname = 'YT Jepriasu_' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
